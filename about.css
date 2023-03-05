@@ -8,11 +8,11 @@
 
 @font-face {
 	font-family: 'Lobster';
-	src: url('/Lobster/Lobster-Regular.ttf') format('truetype');
+	src: url('Lobster-Regular.ttf') format('truetype');
   }
   @font-face {
 	font-family: 'PT_Serif';
-	src: url('/PT_Serif/PTSerif-Regular.ttf') format('truetype');
+	src: url('PTSerif-Regular.ttf') format('truetype');
   }
   
   
@@ -30,7 +30,7 @@ body{
 	background: var(--bg-color);
 	color: var(--text-color);
 	height: 260vh;
-	background: url(../img/black.jpeg);
+	background: url(black.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
